@@ -1,0 +1,93 @@
+.st-key-insert button{
+    margin-left:37%;
+    margin-top:0px;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #00fff7;
+    background: transparent;
+    border: 2px solid #00fff7;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    box-shadow: 0 0 10px #00fff7, 0 0 20px #00fff7 inset;
+}
+.st-key-insert button p{
+    color: #00fff7;
+}
+.st-key-insert button:hover{
+    border: 2px solid #00fff7;
+}
+.st-key-insert button:focus{
+    background-color: #00fff7;
+    box-shadow: 0 0 20px #00fff7,0 0 30px #00fff7 inset;
+    border:none;
+}
+.st-key-insert button:focus p{
+    color:black;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+
+.st-key-update button{
+    margin-left:37%;
+    margin-top:0px;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFF00;
+    background: transparent;
+    border: 2px solid #FFFF00;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    box-shadow: 0 0 10px #FFFF00, 0 0 20px #FFFF00 inset;
+}
+.st-key-update button p{
+    color: #FFFF00;
+}
+.st-key-update button:hover{
+    border: 2px solid #FFFF00;
+}
+.st-key-update button:focus{
+    background-color: #FFFF00;
+    box-shadow: 0 0 20px #FFFF00,0 0 30px #FFFF0000 inset;
+    border:none;
+}
+.st-key-update button:focus p{
+    color:black;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+
+.st-key-delete button{
+    margin-left:37%;
+    margin-top:0px;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #FF0004;
+    background: transparent;
+    border: 2px solid #FF0004;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    box-shadow: 0 0 10px #FF0004, 0 0 20px #FF0004 inset;
+}
+.st-key-delete button p{
+    color: #FF0004;
+}
+.st-key-delete button:hover{
+    border: 2px solid #FF0004;
+}
+.st-key-delete button:focus{
+    background-color: #FF0004;
+    box-shadow: 0 0 20px #FF0004,0 0 30px #FF0004 inset;
+    border:none;
+}
+.st-key-delete button:focus p{
+    color:black;
+    font-weight: bold;
+    font-size:15px;
+}
