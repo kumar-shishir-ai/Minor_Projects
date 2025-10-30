@@ -1,0 +1,299 @@
+/* button one ____________________*/
+.st-key-one button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-one button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-one button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* button two ____________________*/
+.st-key-two button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-two button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-two button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* button three ____________________*/
+.st-key-three button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-three button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-three button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* button four ____________________*/
+.st-key-four button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-four button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-four button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* button five ____________________*/
+.st-key-five button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-five button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-five button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* button six ____________________*/
+.st-key-six button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-six button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-six button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* button seven ____________________*/
+.st-key-seven button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-seven button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-seven button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* button eight ____________________*/
+.st-key-eight button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-eight button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-eight button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* button nine ____________________*/
+.st-key-nine button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-nine button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-nine button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+
+/* button ten ____________________*/
+.st-key-ten button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-ten button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-ten button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
