@@ -1,0 +1,42 @@
+.st-key-predict button{
+background-color:#4CAF50;
+border-radius:10px;
+padding:10px 60px;
+margin-left:250px;
+animation: pulse 2s infinite;
+}
+
+.st-key-predict button p{
+font-size:20px;
+font-family: sans-serif;
+}
+
+.st-key-predict button:hover{
+background-color:#1f5c22;
+border:none;
+}
+
+.st-key-predict button:hover p{
+color:#FFD700;
+}
+
+/* Override the focus states to prevent default red color*/
+.st-key-predict button:focus{
+background-color:#1f5c22;
+border:none;
+}
+
+.st-key-pulse button:focus p{
+color:#FFD700;
+}
+@keyframes pulse{
+    0%{
+    box-shadow:0 0 0 0 rgba(76, 175, 80, 0.7);
+    }
+    70%{
+    box-shadow:0 0 0 20px rgba(76, 175, 80, 0);
+    }
+    100%{
+    box-shadow:0 0 0 0 rgba(76, 175, 80, 0);
+    }
+}
