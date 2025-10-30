@@ -1,0 +1,29 @@
+.st-key-predict button{
+    margin-left:37%;
+    margin-top:30px;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #00fff7;
+    background: transparent;
+    border: 2px solid #00fff7;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    box-shadow: 0 0 10px #00fff7, 0 0 20px #00fff7 inset;
+}
+.st-key-predict button p{
+    color: #00fff7;
+}
+.st-key-predict button:hover{
+    border: 2px solid #00fff7;
+}
+.st-key-predict button:focus{
+    background-color: #00fff7;
+    box-shadow: 0 0 20px #00fff7,0 0 30px #00fff7 inset;
+    border:none;
+}
+.st-key-predict button:focus p{
+    color:black;
+    font-weight: bold;
+    font-size:15px;
+}
