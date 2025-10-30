@@ -29,4 +29,4 @@ Each project focuses on a specific concept or application — from data preproce
 
 - Concepts: Data Preprocessing, Machine Learning, NLP, Computer Vision, Web App Development
 
-🔗 [LinkedIn](linkedin.com/in/shishir-palai-11546a380) | 💻 [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://www.linkedin.com/in/shishir-palai-11546a380?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvB59wNoJSGevDWQkAILxcg%3D%3D) | 💻 [GitHub](https://github.com/yourusername)
