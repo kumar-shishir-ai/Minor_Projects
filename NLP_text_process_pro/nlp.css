@@ -1,0 +1,312 @@
+/* Word tokenize button ____________________*/
+.st-key-word button{
+    margin-top:5px;
+    margin-left:20px;
+    padding: 7px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(52, 17, 168);
+    background: transparent;
+    border: 2px solid rgb(52, 17, 168);
+    border-radius: 5px;
+    letter-spacing: 2px;
+    box-shadow: 0 0 10px rgb(52, 17, 168), 0 0 20px rgb(52, 17, 168) inset;
+}
+.st-key-word button p{
+    color: white;
+}
+.st-key-word button:hover{
+    border: 2px solid rgb(52, 17, 168);
+}
+.st-key-word button:focus{
+    background-color: rgb(52, 17, 168);
+    box-shadow: 0 0 20px rgb(52, 17, 168),0 0 30px rgb(52, 17, 168) inset;
+    border:none;
+}
+.st-key-word button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+/* Sentence tokenize button ____________________*/
+.st-key-sent button{
+    margin-top:5px;
+    margin-left:20px;
+    padding: 7px 15px;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(52, 17, 168);
+    background: transparent;
+    border: 2px solid rgb(52, 17, 168);
+    border-radius: 5px;
+    letter-spacing: 2px;
+    box-shadow: 0 0 10px rgb(52, 17, 168), 0 0 20px rgb(52, 17, 168) inset;
+}
+.st-key-sent button p{
+    color: white;
+}
+.st-key-sent button:hover{
+    border: 2px solid rgb(52, 17, 168);
+}
+.st-key-sent button:focus{
+    background-color: rgb(52, 17, 168);
+    box-shadow: 0 0 20px rgb(52, 17, 168),0 0 30px rgb(52, 17, 168) inset;
+    border:none;
+}
+.st-key-sent button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+/* Bigram tokenize button ____________________*/
+.st-key-big button{
+    margin-top:5px;
+    margin-left:20px;
+    padding: 7px 40px;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(52, 17, 168);
+    background: transparent;
+    border: 2px solid rgb(52, 17, 168);
+    border-radius: 5px;
+    letter-spacing: 2px;
+    box-shadow: 0 0 10px rgb(52, 17, 168), 0 0 20px rgb(52, 17, 168) inset;
+}
+.st-key-big button p{
+    color: white;
+}
+.st-key-big button:hover{
+    border: 2px solid rgb(52, 17, 168);
+}
+.st-key-big button:focus{
+    background-color: rgb(52, 17, 168);
+    box-shadow: 0 0 20px rgb(52, 17, 168),0 0 30px rgb(52, 17, 168) inset;
+    border:none;
+}
+.st-key-big button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* Trigram tokenize button ____________________*/
+.st-key-tri button{
+    margin-top:5px;
+    margin-left:20px;
+    padding: 7px 40px;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(52, 17, 168);
+    background: transparent;
+    border: 2px solid rgb(52, 17, 168);
+    border-radius: 5px;
+    letter-spacing: 2px;
+    box-shadow: 0 0 10px rgb(52, 17, 168), 0 0 20px rgb(52, 17, 168) inset;
+}
+.st-key-tri button p{
+    color: white;
+}
+.st-key-tri button:hover{
+    border: 2px solid rgb(52, 17, 168);
+}
+.st-key-tri button:focus{
+    background-color: rgb(52, 17, 168);
+    box-shadow: 0 0 20px rgb(52, 17, 168),0 0 30px rgb(52, 17, 168) inset;
+    border:none;
+}
+.st-key-tri button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* Stemming button ____________________*/
+.st-key-stem button {
+    background-color: #2196F3 !important;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: pulse 2s infinite;
+}
+.st-key-stem button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(33, 150, 243, 0.6);
+    }
+    70% {
+        box-shadow: 0 0 0 10px rgba(33, 150, 243, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(33, 150, 243, 0);
+    }
+}
+.st-key-stem button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* Lemmatizing button ____________________*/
+.st-key-lem button {
+    background-color: #2196F3 !important;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: pulse 2s infinite;
+}
+.st-key-lem button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(33, 150, 243, 0.6);
+    }
+    70% {
+        box-shadow: 0 0 0 10px rgba(33, 150, 243, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(33, 150, 243, 0);
+    }
+}
+.st-key-lem button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* name button ____________________*/
+.st-key-name button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    padding: 7px 45px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-name button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-name button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+/* definition button ____________________*/
+.st-key-defi button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-defi button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-defi button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+/* example button ____________________*/
+.st-key-exa button {
+    background-color: #2196F3 !important;
+    margin-left:30px;
+    color: white !important;
+    border-radius: 10px !important;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: glow 2s infinite;
+}
+.st-key-exa button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes glow {
+    0% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+    50% { box-shadow: 0 0 20px #0066cc, 0 0 30px #0066cc, 0 0 40px #0066cc; }
+    100% { box-shadow: 0 0 5px #003366, 0 0 10px #003366, 0 0 20px #003366; }
+}
+
+.st-key-exa button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
+
+
+
+/* image button ____________________*/
+.st-key-image button {
+    background-color: rgb(52, 17, 168);
+    margin-left:550px;
+    color: white !important;
+    border-radius: 10px ;
+    padding: 10px 30px !important;
+    border: none !important;
+    transition: 0.3s !important;
+    font-weight: 600 !important;
+    animation: pulse 2s infinite;
+}
+.st-key-image button:hover {
+    background-color: #1976D2 !important;
+    transform: scale(1.05);
+}
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(52, 17, 168, 0.6);
+    }
+    70% {
+        box-shadow: 0 0 0 10px rgba(52, 17, 168, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(52, 17, 168, 0);
+    }
+}
+.st-key-image button:focus p{
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+}
